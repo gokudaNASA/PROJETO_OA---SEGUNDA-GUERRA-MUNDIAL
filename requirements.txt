@@ -1,0 +1,2 @@
+colorama==0.4.6
+#para instalar, é só digitar em um terminal ----> pip install --requirement requirements.txt
