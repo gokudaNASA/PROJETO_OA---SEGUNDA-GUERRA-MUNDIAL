@@ -9,7 +9,8 @@ AVISOS ANTES DE EXECUTAR MEU PROJETO:
 Necessita-se do download do arquivo requeriments.tx para obter a experiênica completa
 Para realizar o download do arquivo, vá para o terminal e digite o seguinte comando: pip install --requirement requirements.txt
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------ENGLISH:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+ENGLISH:
 #Hello World! 👋
 
 My name is Erick and I'm a high school student passionate about programming. I'm currently studying a technical computer course with integrated high school and, although I'm still learning, I'm very excited about the possibilities that programming offers. I'm 16 years old and although I'm not very experienced, I'm committed to improving my skills every day. I love solving problems and I believe programming is an excellent way to do that. I'm always open to learning new things and I can't wait to see where my programming journey takes me!
